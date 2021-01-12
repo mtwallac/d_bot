@@ -8,6 +8,5 @@ module.exports = {
   BGone: require('./bgone'),
   SFW: require('./sfw'),
   FixLinks: require('./fixlinks'),
-  Commands: require('./help'),
-  GPU: require('./gpu')
+  Commands: require('./help')
 };
